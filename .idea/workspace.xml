@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42a4a208-c374-4f84-95d9-734ca16c5393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cliente/Ventana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dialog/WindowsDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Button/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Button/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Button/HtmlButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Button/HtmlButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Button/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Button/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dialog/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dialog/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dialog/HtmlDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dialog/HtmlDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,11 +43,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.Ventana.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709561974955</updated>
-      <workItem from="1709561976090" duration="2000" />
+      <workItem from="1709561976090" duration="2494000" />
     </task>
     <servers />
   </component>

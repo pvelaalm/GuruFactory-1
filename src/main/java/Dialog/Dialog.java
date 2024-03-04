@@ -1,8 +1,9 @@
+package Dialog;
+import Button.Button;
+
 public abstract class Dialog {
 
     public void renderWindow() {
-        // ... other code ...
-
         Button okButton = createButton();
         okButton.render();
     }
